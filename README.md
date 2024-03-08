@@ -27,7 +27,7 @@
 1. Создать Deployment приложения, состоящего из двух контейнеров (nginx и multitool), с количеством реплик 3 шт.
 
 
-[deployment-01.yaml]()
+[deployment-01.yaml](https://github.com/12sergey12/12.4_kubernetes_Networking-in-K8S.part-1/blob/main/deployment-01.yaml)
 
 ```
 apiVersion: apps/v1
@@ -182,9 +182,9 @@ pod-multitool:/#
 5. Предоставить манифесты Deployment и Service в решении, а также скриншоты или вывод команды п.4.
 
 
-Манифест [deployment]
+Манифест [deployment](https://github.com/12sergey12/12.4_kubernetes_Networking-in-K8S.part-1/blob/main/deployment-01.yaml)
 
-Манифест [service]
+Манифест [service](https://github.com/12sergey12/12.4_kubernetes_Networking-in-K8S.part-1/blob/main/deployment-01.yaml)
 
 Вывод команды:
 
@@ -291,7 +291,7 @@ root@baranov:/home/baranovsa/kube-1.4#
 3. Предоставить манифест и Service в решении, а также скриншоты или вывод команды п.2.
 
 
-Манифест [service]
+Манифест [service](https://github.com/12sergey12/12.4_kubernetes_Networking-in-K8S.part-1/blob/main/deployment-01.yaml)
 
 Вывод команды:
 
